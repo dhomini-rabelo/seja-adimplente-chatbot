@@ -25,4 +25,4 @@ This project uses the concepts of SOLID, DDD, Clean Architecture, and TDD.
 
 ## Project
 
-![AD](./seja-adimplente.gif.mp4)
+![AD](./seja-adimplente.gif)
